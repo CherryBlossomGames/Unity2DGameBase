@@ -9,6 +9,7 @@ https://creativecommons.org/share-your-work/public-domain/cc0/
 You may use GameBase as you see fit, no warranty or functionality is guaranteed or implied. No credit to the author is required.
 
 **GameBase has the following Features:**
+
 0) Installing GameBase
 1) AutoLoad Prefabs and Scriptable Objects
 2) Example UI
