@@ -1,7 +1,7 @@
 # Unity2DGameBase
 A basic starting point for unity projects. Includes: a saving system, resolution system, audio system and prefab / scriptable object autoload system
 
-2DGameBase -- Copyright 2020 Cherry Blossom Games LLC.
+2DGameBase -- Programming by: 2020 Cherry Blossom Games LLC.
 https://twitter.com/games_blossom
 
 LICENSE - GameBase is Public Domain and is Lisensed under Creative Commons Zero
