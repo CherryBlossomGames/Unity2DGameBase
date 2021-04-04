@@ -102,6 +102,7 @@ namespace GameBase {
         private static void DeleteData(string filename, int slot = 1) {
             string mySlotString = Application.persistentDataPath + "/" + filename + slot + ".dat";
             try {
+				File.Delete(mySlotString);
                 Debug.Log("Deleted: " + mySlotString);
             }
             catch (Exception ex) {
